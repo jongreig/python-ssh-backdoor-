@@ -11,3 +11,5 @@ make it executable by adding ```#!/usr/bin/env python ``` to the top of the scri
 ``````
 ./sshbackdoor.py
 ```
+##but its poorly written....
+yes I made this 2yrs ago and I had it on my old hard drive so I thought I'd just upload it here, someone could make use of it or even use it as a base to starting a project. 
