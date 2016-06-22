@@ -1,4 +1,4 @@
-# python ssh backdoor
+# simple ssh backdoor 
 
 ##execute
 python sshbackdoor.py
